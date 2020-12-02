@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{EFB732B5-5C87-43C7-9853-C075FF460A55}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{59A23B24-6572-4D23-B750-A74BFFE238CA}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -41,13 +41,13 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Move file"
+      DTS:refId="Package\Move file fn again"
       DTS:CreationName="Microsoft.FileSystemTask"
       DTS:Description="File System Task"
       DTS:DTSID="{DFCE7E49-603A-4E47-9F47-3E6B2A9D5CCD}"
       DTS:ExecutableType="Microsoft.FileSystemTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Move file"
+      DTS:ObjectName="Move file fn again"
       DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
@@ -72,8 +72,8 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="123,42"
-          Id="Package\Move file"
+          Size="251,117"
+          Id="Package\Move file fn again"
           TopLeft="207.5,88.5" />
       </GraphLayout>
     </LayoutInfo>
