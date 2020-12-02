@@ -7,12 +7,12 @@
   DTS:CreatorName="ABILISNE\gdauphin"
   DTS:DTSID="{220BF409-06C9-4401-B4A9-5BD87306E515}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.2000.93"
+  DTS:LastModifiedProductVersion="15.0.2000.132"
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="9"
-  DTS:VersionGUID="{23C3E0DA-D534-4EB8-B195-8F6A1A6A0F3A}">
+  DTS:VersionBuild="10"
+  DTS:VersionGUID="{B1399890-CE5F-4192-B3E6-B01A5FC3A3DE}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -43,7 +43,7 @@
     <DTS:Executable
       DTS:refId="Package\Move file fn again Gerry 2"
       DTS:CreationName="Microsoft.FileSystemTask"
-      DTS:Description="File System Task"
+      DTS:Description="File System Task Dave"
       DTS:DTSID="{DFCE7E49-603A-4E47-9F47-3E6B2A9D5CCD}"
       DTS:ExecutableType="Microsoft.FileSystemTask"
       DTS:LocaleID="-1"
@@ -72,7 +72,7 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="200,43"
+          Size="198.666666666667,64"
           Id="Package\Move file fn again Gerry 2"
           TopLeft="207.5,88.5" />
       </GraphLayout>
