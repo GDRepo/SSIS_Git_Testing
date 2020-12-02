@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{1FBD8490-5FCB-4304-8102-7930DEDFF087}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{15F3125D-6145-4DB7-8141-2A5427522997}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -72,7 +72,7 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="122.666666666667,42"
+          Size="156.666666666667,78.6666666666667"
           Id="Package\Move files Dave"
           TopLeft="207.5,88.5" />
       </GraphLayout>
