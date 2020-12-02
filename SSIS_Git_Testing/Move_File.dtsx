@@ -41,13 +41,13 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Move file fn again Gerry 2"
+      DTS:refId="Package\Move file fn again Gerry 3"
       DTS:CreationName="Microsoft.FileSystemTask"
       DTS:Description="File System Task Dave"
       DTS:DTSID="{DFCE7E49-603A-4E47-9F47-3E6B2A9D5CCD}"
       DTS:ExecutableType="Microsoft.FileSystemTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Move file fn again Gerry 2"
+      DTS:ObjectName="Move file fn again Gerry 3"
       DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:ThreadHint="0">
       <DTS:Variables />
@@ -72,8 +72,8 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="198.666666666667,64"
-          Id="Package\Move file fn again Gerry 2"
+          Size="200,43"
+          Id="Package\Move file fn again Gerry 3"
           TopLeft="207.5,88.5" />
       </GraphLayout>
     </LayoutInfo>
